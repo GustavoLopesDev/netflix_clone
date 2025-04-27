@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   
   
   
@@ -23,6 +24,6 @@
 <h2>Descrição :</h2>
 <p>Aplicação criada para estudo prático em React, Js e manipulação de API.</p>
 <h2>Detalhes do Projeto :</h2>
-<p>Utilizei a API da TMDB para fazer o clone da tela principal da Netflix, realizando algumas funções como a rolagens das listas de filmes com limitações baseadas na quantidade de filmes, alguns efeitos basicos de animações nas imagens dos filmes e na movimentação da lista de filme.</p>
+<p>Desenvolvi um clone da tela principal da Netflix utilizando a API da TMDB. O projeto inclui funcionalidades como a rolagem dinâmica das listas de filmes, controle de limites de exibição baseado na quantidade de itens, além da implementação de animações suaves nas imagens e na movimentação das listas, proporcionando uma experiência de navegação mais fluida e agradável.</p>
 <h2>Inpiração :</h2>
 <p>Utilizei como base o projeto da B7web.</p>
